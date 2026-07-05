@@ -2,3 +2,14 @@
 *.sublime-project
 *.sublime-workspace
 my_app/.objs
+
+# Standard patterns
+node_modules/
+dist/
+build/
+.env
+.env.*
+__pycache__/
+.venv/
+*.egg-info/
+.mypy_cache/

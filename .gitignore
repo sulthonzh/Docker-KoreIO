@@ -13,3 +13,10 @@ __pycache__/
 .venv/
 *.egg-info/
 .mypy_cache/
+
+# C compiled artifacts
+*.o
+*.a
+*.so
+*.exe
+*.out
